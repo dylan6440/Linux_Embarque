@@ -6,7 +6,9 @@ Dans ce git vous retrouverez :
 <br />
   - Deux tp effectué en cours a partir d'un git de l'intervenant Yassine Elmernissi:
 <br />
-          https://github.com/yassine-elmernissi/bachelor-embedded-linux.git
+<br />
+            https://github.com/yassine-elmernissi/bachelor-embedded-linux.git
+<br />
 <br />
     <ul>
     <li> Le premier TP est la création d'une image Docker a partir d'un Dockerfile pour effectuer un crosstool-ng </li>
