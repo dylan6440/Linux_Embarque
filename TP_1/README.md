@@ -1,4 +1,7 @@
  # Le premier TP est la création d'une image Docker avec un Dockerfile
+ 
+ ## Une fois le Dockerfile Fini on effectuer une suite de commande pour la création et exécution de notre image
+ 
   
 On Effectue un docker build en lui disent que le dockerfile ce situe dans le fichier actuel, on lui donne un nom d'image avec le -t et on lui donne en argument avec le --build-arg le Kernel de notre rpi3
 
