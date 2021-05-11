@@ -25,3 +25,4 @@
     ![docker ps](https://user-images.githubusercontent.com/70941138/117817559-02e77c00-b268-11eb-93b3-3594ef71732b.PNG)
     
     
+    L'image est bien lancé
