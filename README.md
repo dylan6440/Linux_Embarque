@@ -1,6 +1,6 @@
-### Linux_Embarque
+# Linux_Embarque
 
-# Projet Linux Embarqué
+## Projet Linux Embarqué
 
 Dans ce git vous retrouverez les deux tp effectué en cours:
 
