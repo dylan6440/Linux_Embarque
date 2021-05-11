@@ -1,11 +1,7 @@
 # Linux_Embarque
 <br />
 <br />
-## TP Linux Embarqué
-<br />
-<br />
-Dans ce git vous retrouverez
---
+Dans ce git vous retrouverez :
 <br />
 <br />
   - Deux tp effectué en cours a partir d'un git de l'intervenant Yassine Elmernissi:
