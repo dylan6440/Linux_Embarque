@@ -20,9 +20,13 @@ lancement du build
 
 ![build](https://user-images.githubusercontent.com/70941138/118411269-f3b36480-b693-11eb-8c62-4627c975b134.PNG)
 
-Une fois le build fini, j'ai copié l'image sur ma MicroSD pour mettre sur ma rpi3, ma vm a planté et impossible.
-J'ai essayé de me relog même avec le terminal de secours, créé un newuser et impossible d'avoir accés a mes fichier.
+Une fois le build fini, j'ai voulut copié l'image present dans le dossier tmp/deploy/images/ sur ma MicroSD pour mettre sur ma rpi3. 
 
+        $ dd if=MonImage.rootfs.rpi-sdimg of=/dev/sdb bs=4M
+
+
+Ma vm a planté et impossible de me relog ou de recupérer les documents.
+J'ai essayé de me relog même avec le terminal de secours, créé un newuser et impossible quand même d'avoir accés a mes fichier.
 ![login](https://user-images.githubusercontent.com/70941138/118411763-7ccb9b00-b696-11eb-92c4-3b861022f564.PNG)
 
 j'ai donc recréé une vm, refaits toute les installations mais je n'ai pus rendre le tp fini a temps.
